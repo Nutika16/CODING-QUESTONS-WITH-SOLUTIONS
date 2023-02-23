@@ -1,2 +1,2 @@
-# HAKERRANK CODING-QUESTONS-WITH-SOLUTIONS OF C
+# HAKERRANK C PROGRAMMING CODING-QUESTONS-WITH-SOLUTIONS.
 Hacker-rank questions and other coding questions with easy solutions. 
